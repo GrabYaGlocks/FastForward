@@ -1,16 +1,16 @@
-# FastForward Privacy Policy
+# FastForward Gizlilik Politikası
 
-## Auto-updating
+## Otomatik güncelleme
 
-In order to provide up-to-date bypasses, FastForward sends a request to Github every hour, and if a new commit is found, it will download the latest "injection script."
+FastForward, güncel baypaslar sağlamak için her saat Github'a bir istek gönderir ve yeni bir taahhüt bulunursa en son "enjeksiyon komut dosyasını" indirir.
 
-For this, [Github's privacy policy](https://help.github.com/en/github/site-policy/github-privacy-statement) applies.
+Bunun için [Github'ın gizlilik politikası](https://help.github.com/en/github/site-policy/github-privacy-statement) geçerlidir.
 
-## Crowd Bypass
+## Kalabalık Baypas
 
-When Crowd Bypass (Options > "Give and take the destinations of unbypassable shorteners.") is enabled, ocassionally the extension will send requests to our server:
+Crowd Bypass (Seçenekler > "Bypass edilemeyen kısaltıcıların hedeflerini ver ve al.") etkinleştirildiğinde, uzantı bazen sunucumuza istek gönderir:
 
-- When you visit a known unbypassable shortener website, the URL is sent so it can check against the database if someone else has already reported its destination.
-- When you complete your visit on such a website, the URL and destination URL are sent so it can be recorded for future visitors.
+- Bilinen bir atlanamayan kısaltıcı web sitesini ziyaret ettiğinizde, başka birinin hedefini önceden bildirmiş olup olmadığını veritabanına göre kontrol edebilmesi için URL gönderilir.
+- Böyle bir web sitesindeki ziyaretinizi tamamladığınızda, gelecekteki ziyaretçiler için kaydedilebilmesi için URL ve hedef URL gönderilir.
 
-To prevent abuse, we log a hashed version of your IP address in our database when you submit a link. Only the developers have access to the database.
+Kötüye kullanımı önlemek için, bir bağlantı gönderdiğinizde IP adresinizin karma bir sürümünü veritabanımıza kaydederiz. Veritabanına yalnızca geliştiriciler erişebilir.

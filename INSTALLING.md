@@ -30,7 +30,7 @@ Yukarıda belirtilmeyen Chromium tabanlı tarayıcılar
 3. Tarayıcınızda uzantıları yönet sayfasını açın ve "Geliştirici Modu"nu açın
 4. `FastForward_chromium_0.xxxx.crx` üzerine sağ tıklayın ve "``FastForward_chromium_0.xxxx.crx\` dosyasına çıkart" yapın
 5. Tarayıcı pencerenize gidin ve "Paketlenmemiş öğre yükle"ye tıklayın.
-6. 5. adımdaki klasörü seçin.
+6. 5 . adımdaki klasörü seçin.
 
 ## Firefox ve Firefox tabanlı tarayıcılar:
 
@@ -52,7 +52,7 @@ Bu, yalnızca Firefox'un gece sürümünde çalışır.
 ### Android
 
 1. Buraya [tıklayın](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-support-in-firefox-for-android-nightly/) and follow the steps.
-2. 5. adımda olduğunuzda, Koleksiyon Sahibine şu numarayı girin: '17352072'.
+2. 5 . adımda olduğunuzda, Koleksiyon Sahibine şu numarayı girin: '17352072'.
 3. Koleksiyon Adına 'FastForward' yazın.
 4. "Tamam"a dokunun.
 5. Firefox'u açın.

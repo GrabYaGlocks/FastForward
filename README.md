@@ -45,12 +45,12 @@ Uzantıyı aşağıdaki mağazalardan yüklemenizi öneririz:
 ### Otomatik Kurulum
 ~~FastForward [Chrome Web Mağazası](https://chrome.google.com/webstore/detail/fastforward/icallnadddjmdinamnolclfjanhfoafe)~~ **FastForward artık Chrome Web Mağazası'nda mevcut deği, yukarıdaki bildirime bakın.**
 
-ve [Microsoft Edge Eklentileri]'nde(https://microsoftedge.microsoft.com/addons/detail/fastforward/ldcclmkclhomnpcnccgbgleikchbnecl).
+ve şurada [Microsoft Edge Eklentileri](https://microsoftedge.microsoft.com/addons/detail/fastforward/ldcclmkclhomnpcnccgbgleikchbnecl).
 
 ### Manuel Kurulum
 [<img src="https://img.shields.io/badge/Chromium-Unstable-e77334" />](https://nightly.link/FastForwardTeam/FastForward/workflows/main/main/FastForward_chromium.zip)
 
-[buradan manuel olarak nasıl yükleyeceğinizi] görebilirsiniz.(https://github.com/FastForwardTeam/FastForward/blob/main/INSTALLING.md).
+buradan manuel olarak nasıl yükleyeceğinizi [görebilirsiniz].(https://github.com/FastForwardTeam/FastForward/blob/main/INSTALLING.md).
 
 ## Firefox Tabanlı Tarayıcılar
 Buna Waterfox gibi tarayıcılar da dahildir. <br>
@@ -58,9 +58,9 @@ Firefox Eklenti Mağazasından yüklemenizi öneririz, mağazaya yönlendirilmek
 
 <a href="https://addons.mozilla.org/firefox/addon/fastforwardteam/"><img src="https://user-images.githubusercontent.com/585534/107280546-7b9b2a00-6a26-11eb-8f9f-f95932f4bfec.png" alt="Get FastForward for Firefox" width="126px"></a> 
 ### Otomatik Kurulum
-Uzantı ayrıca [Firefox Eklentileri Mağazası]'ndadır.(https://addons.mozilla.org/firefox/addon/fastforwardteam/).
+Uzantı ayrıca şurada [Firefox Eklentileri Mağazası](https://addons.mozilla.org/firefox/addon/fastforwardteam/).
 
 ### Manuel Kurulum
 [<img src="https://img.shields.io/badge/Firefox-Unstable-e77334" />](https://nightly.link/FastForwardTeam/FastForward/workflows/main/main/FastForward_firefox.zip)
 
-[buradan manuel olarak nasıl yükleyeceğinizi] görebilirsiniz.(https://github.com/FastForwardTeam/FastForward/blob/main/INSTALLING.md).
+Buradan manuel olarak nasıl yükleyeceğinizi [görebilirsiniz](https://github.com/FastForwardTeam/FastForward/blob/main/INSTALLING.md).

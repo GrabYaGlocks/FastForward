@@ -5,58 +5,58 @@
 [<img src="https://img.shields.io/badge/Chromium-Unstable-e77334" />](https://nightly.link/FastForwardTeam/FastForward/workflows/main/main/FastForward_chromium.zip)
 [<img src="https://img.shields.io/badge/Firefox-Unstable-e77334" />](https://nightly.link/FastForwardTeam/FastForward/workflows/main/main/FastForward_firefox.zip)
 
-#### Don't waste your time with compliance. FastForward automatically skips annoying link shorteners.
+#### Bekleyerek zamanınızı boşa harcamayın. FastForward, can sıkıcı bağlantı kısaltıcıları otomatik olarak atlar.
 
 ****
-> **Since FastForward has been removed from Chrome Web Store, you'll need to manually install the extension following the steps below.**
+> **FastForward, Chrome Web Mağazası'ndan kaldırıldığından, aşağıdaki adımları izleyerek uzantıyı manuel olarak yüklemeniz gerekir.**
 ****
 
-These are for manually installing the addon. if you do not wish to do this, [Add if from the web stores](https://fastforward.team/install)
+Bunlar, eklentiyi manuel olarak yüklemek içindir. bunu yapmak istemiyorsanız, [Web mağazalarından indirin](https://fastforward.team/install)
 
-# Installation instructions
-## Chromium based browsers:
-| :information_source: Auto-updating builds for Google Chrome (Windows, Linux & macOS), Brave (Windows, Linux & macOS), Kiwi (Android), Ungoogled Chromium and Edge are now available |
+# Kurulum Talimatları
+## Chromium tabanlı tarayıcılar:
+| :information_source: Google Chrome (Windows, Linux ve macOS), Brave (Windows, Linux ve macOS), Kiwi (Android), Ungoogled Chromium ve Edge için otomatik güncelleme yapıları artık mevcut |
 | :-: |
-| [Click here for instructions](https://github.com/FastForwardTeam/releases#installation-instructions) |
+| [Talimatlar için buraya tıklayın](https://github.com/FastForwardTeam/releases#installation-instructions) |
 
-NOTE: You will have to repeat the following installation process to update
-Chromium based browsers that are not mentioned above
+NOT: Güncellemek için aşağıdaki yükleme işlemini tekrarlamanız gerekecektir.
+Yukarıda belirtilmeyen Chromium tabanlı tarayıcılar
 
 
-0. REMOVE any previous versions of FastForward!!!
+0. FastForward'ın önceki sürümlerini KALDIRIN!!!
 
-1. Download the zip file using [this link](https://nightly.link/FastForwardTeam/FastForward/workflows/main/main/FastForward_chromium.zip).
-2. Unzip the file once, leaving you with another zip (or crx) file.
-3. Open the manage extensions page on your browser and turn on "Developer Mode"
-4. Right click `FastForward_chromium_0.xxxx.crx` and click on "Extract to `FastForward_chromium_0.xxxx.crx\`"
-5. Go to your browser window, and click in "Load unpacked".
-6. Select the folder in step 5.
+1. Şu bağlantıyı kullanarak zip dosyasını [indirin](https://nightly.link/FastForwardTeam/FastForward/workflows/main/main/FastForward_chromium.zip).
+2. Dosyayı uznip yaparak klasöre çıkartın.
+3. Tarayıcınızda uzantıları yönet sayfasını açın ve "Geliştirici Modu"nu açın
+4. `FastForward_chromium_0.xxxx.crx` üzerine sağ tıklayın ve "``FastForward_chromium_0.xxxx.crx\` dosyasına çıkart" yapın
+5. Tarayıcı pencerenize gidin ve "Paketlenmemiş öğre yükle"ye tıklayın.
+6. 5. adımdaki klasörü seçin.
 
-## Firefox and Firefox based browsers:
+## Firefox ve Firefox tabanlı tarayıcılar:
 
-This will only work in the nightly version of Firefox.
+Bu, yalnızca Firefox'un gece sürümünde çalışır.
 
 ### Windows, Linux & macOS
 
-0. REMOVE any previous versions of FastForward!!!
+0. FastForward'ın önceki sürümlerini KALDIRIN!!!
 
-1. Download the zip using [this link](https://nightly.link/FastForwardTeam/FastForward/workflows/main/main/FastForward_firefox.zip).
-2. Unzip the downloaded file so that you have `FastForward_firefox_X.XXXX.xpi`.
-3. Open about:config
-4. Search for xpinstall.signatures.required
-5. Toggle xpinstall.signatures.required to false using the button on the right.
-6. Restart Firefox.
-7. Open about:addons
-8. Drag your `FastForward_firefox_X.XXXX.xpi` into Firefox, and click "add" when prompted.
+1. Şu bağlantıyı kullanarak zip dosyasını [indirin](https://nightly.link/FastForwardTeam/FastForward/workflows/main/main/FastForward_firefox.zip).
+2. İndirilen dosyayı `FastForward_firefox_X.XXXX.xpi` olacak şekilde açın..
+3. about:config açın
+4. xpinstall.signatures.required dosyasını arayın
+5. Sağdaki düğmeyi kullanarak xpinstall.signatures.required öğesini false olarak değiştirin.
+6. Firefox'u yeniden başlatın.
+7. about:addons açın
+8. `FastForward_firefox_X.XXXX.xpi` dosyanızı Firefox'a sürükleyin ve istendiğinde "ekle"yi tıklayın.
 
 ### Android
 
-1. Click [here](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-support-in-firefox-for-android-nightly/) and follow the steps.
-2. When you are on the step 5, place this number: `17352072` on Collection Owner.
-3. Write `FastForward` on Collection Name.
-4. Tap "Ok".
-5. Open Firefox.
-6. Tap on the 3 dots.
-7. Tap on Extensions.
-8. Find FastForward.
-9. Add FastForward.
+1. Buraya [tıklayın](https://blog.mozilla.org/addons/2020/09/29/expanded-extension-support-in-firefox-for-android-nightly/) and follow the steps.
+2. 5. adımda olduğunuzda, Koleksiyon Sahibine şu numarayı girin: '17352072'.
+3. Koleksiyon Adına 'FastForward' yazın.
+4. "Tamam"a dokunun.
+5. Firefox'u açın.
+6. 3 noktaya dokunun.
+7. Uzantılar'a dokunun.
+8. FastForward'ı bulun.
+9. FastForward'ı ekleyin.

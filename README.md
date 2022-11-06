@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://avatars.githubusercontent.com/u/88992224?s=200&v=4" width="128" />
 <h1> FastForward </h1>
-<p> Don't waste your time with compliance. FastForward automatically skips annoying link shorteners. </p>
+<p> Beklemekle zamanınızı boşa harcamayın. FastForward, sıkıcı bağlantı kısaltıcıları otomatik olarak atlar. </p>
 
 
 [<img src="https://badgen.net/github/checks/FastForwardTeam/FastForward?label=Build" />](https://github.com/FastForwardTeam/FastForward/blob/main/.github/workflows/main.yml)
@@ -11,56 +11,56 @@
 <a href="https://addons.mozilla.org/firefox/addon/fastforwardteam/"><img src="https://user-images.githubusercontent.com/585534/107280546-7b9b2a00-6a26-11eb-8f9f-f95932f4bfec.png" alt="Get FastForward for Firefox" width="126px"></a> 
 </div>
 
-> **FastForward has been removed from Chrome Web Store.**
-> **Join our [Discord server](https://discord.gg/RSAf7b5njt) for more details about.**
+> **FastForward, Chrome Web Mağazası'ndan kaldırıldı.**
+> **Daha fazla bilgi için [Discord sunucumuza](https://discord.gg/RSAf7b5njt) katılın.**
 
-# About
-## What is FastForward?
-FastForward is the successor of Universal Bypass (see below), a browser extension that can bypass annoying link shorteners, so you don't need to waste your time _trying_ to get on the final link.
+# Hakkında
+## FastForward nedir?
+FastForward, can sıkıcı bağlantı kısaltıcıları atlayabilen bir tarayıcı uzantısı olan Universal Bypass'ın (aşağıya bakın) halefidir, bu nedenle son bağlantıya ulaşmak için zamanınızı _deneyerek_ harcamanıza gerek yoktur.
 
-You can see the extension in action in [our official website](https://fastforward.team/example-links).
+Eklentinin çalıştığı siteleri [web sitemizden](https://fastforward.team/example-links) görebilirsin.
 
-## What happened to Universal Bypass?
-As you may know, [Universal Bypass](https://github.com/Sainan/Universal-Bypass) is no longer maintained by its original developer, [Sainan](https://github.com/Sainan), who had worked on it for so long.\
-Thanks Sainan for your hard work.
+## Universal Bypass'a ne oldu?
+Bildiğiniz gibi, [Universal Bypass](https://github.com/Sainan/Universal-Bypass) artık orijinal geliştiricisi [Sainan](https://github.com/Sainan) tarafından geliştirilmemektedir. üzerinde çok uzun süre çalıştı.\
+Emeklerin için teşekkürler Sainan.
 
-## Does FastForward have a Discord server?
-Yes! We do, and if you are interested in assisting the development, need help or just wanna hang out, you can [click here to join](https://discord.gg/RSAf7b5njt) to our server.
+## FastForward'ın Discord sunucusu var mı?
+Evet! Yapıyoruz ve geliştirmeye yardımcı olmakla ilgileniyorsanız, yardıma ihtiyacınız varsa veya sadece takılmak istiyorsanız, sunucumuza [buradan](https://discord.gg/RSAf7b5njt) katılabilirsiniz.
 
 <!-- i will use this later [<img src="https://i.ibb.co/X70qCQx/Discord-Logo-Color.png" width="40" />](https://discord.gg/RSAf7b5njt) -->
 
-# Installing the Extension
-## Chromium based browsers
-Chromium based browsers includes Chrome, Opera, Opera GX, Edge, Brave, Vivaldi.
+# Uzantıyı Yükleme
+## Chromium tabanlı tarayıcılar
+Chromium tabanlı tarayıcılar arasında Chrome, Opera, Opera GX, Edge, Brave, Vivaldi bulunur.
 
-We recommend installing the extension from the stores below:
+Uzantıyı aşağıdaki mağazalardan yüklemenizi öneririz:
 
 ****
-**FastForward was removed from Google Web Store, if you are not using Edge, you must [manually install](https://github.com/FastForwardTeam/FastForward/blob/main/INSTALLING.md) the extension. [See more details in our Discord Server](https://discord.gg/RSAf7b5njt).**
+**FastForward, Google Web Mağazası'ndan kaldırıldı, Edge kullanmıyorsanız [manuel olarak yüklemelisiniz](https://github.com/FastForwardTeam/FastForward/blob/main/INSTALLING.md). [Discord Sunucumuzda daha fazla ayrıntıya bakın](https://discord.gg/RSAf7b5njt).**
 ****
 <!--<a href="https://chrome.google.com/webstore/detail/fastforward/icallnadddjmdinamnolclfjanhfoafe"><img src="https://user-images.githubusercontent.com/585534/107280622-91a8ea80-6a26-11eb-8d07-77c548b28665.png" alt="Get FastForward on Chromium based browsers" width="126px"></a>-->
 <br>
 <a href="https://microsoftedge.microsoft.com/addons/detail/fastforward/ldcclmkclhomnpcnccgbgleikchbnecl"><img src="https://user-images.githubusercontent.com/585534/107280673-a5ece780-6a26-11eb-9cc7-9fa9f9f81180.png" alt="Get FastForward on Microsoft Edge" width="126px"></a>
 
-### Automatic Install
-~~FastForward is present on the [Chrome Web Store](https://chrome.google.com/webstore/detail/fastforward/icallnadddjmdinamnolclfjanhfoafe)~~ **FastForward is no longer present on Chrome Web Store, see the notice above.**
+### Otomatik Kurulum
+~~FastForward [Chrome Web Mağazası](https://chrome.google.com/webstore/detail/fastforward/icallnadddjmdinamnolclfjanhfoafe)~~ **FastForward artık Chrome Web Mağazası'nda mevcut deği, yukarıdaki bildirime bakın.**
 
-and in the [Microsoft Edge Addons](https://microsoftedge.microsoft.com/addons/detail/fastforward/ldcclmkclhomnpcnccgbgleikchbnecl).
+ve [Microsoft Edge Eklentileri]'nde(https://microsoftedge.microsoft.com/addons/detail/fastforward/ldcclmkclhomnpcnccgbgleikchbnecl).
 
-### Manual Install
+### Manuel Kurulum
 [<img src="https://img.shields.io/badge/Chromium-Unstable-e77334" />](https://nightly.link/FastForwardTeam/FastForward/workflows/main/main/FastForward_chromium.zip)
 
-You can see how to [install manually here](https://github.com/FastForwardTeam/FastForward/blob/main/INSTALLING.md).
+[buradan manuel olarak nasıl yükleyeceğinizi] görebilirsiniz.(https://github.com/FastForwardTeam/FastForward/blob/main/INSTALLING.md).
 
-## Firefox Based Browsers
-This also includes browsers like Waterfox. <br>
-We recommend you to install it from the Firefox Addons Store, just click on the image below to be redirected to the store.
+## Firefox Tabanlı Tarayıcılar
+Buna Waterfox gibi tarayıcılar da dahildir. <br>
+Firefox Eklenti Mağazasından yüklemenizi öneririz, mağazaya yönlendirilmek için aşağıdaki resme tıklamanız yeterlidir.
 
 <a href="https://addons.mozilla.org/firefox/addon/fastforwardteam/"><img src="https://user-images.githubusercontent.com/585534/107280546-7b9b2a00-6a26-11eb-8f9f-f95932f4bfec.png" alt="Get FastForward for Firefox" width="126px"></a> 
-### Automatic Install
-The extension is also on the [Firefox Addons Store](https://addons.mozilla.org/firefox/addon/fastforwardteam/).
+### Otomatik Kurulum
+Uzantı ayrıca [Firefox Eklentileri Mağazası]'ndadır.(https://addons.mozilla.org/firefox/addon/fastforwardteam/).
 
-### Manual Install
+### Manuel Kurulum
 [<img src="https://img.shields.io/badge/Firefox-Unstable-e77334" />](https://nightly.link/FastForwardTeam/FastForward/workflows/main/main/FastForward_firefox.zip)
 
-You can see how to [install manually here](https://github.com/FastForwardTeam/FastForward/blob/main/INSTALLING.md).
+[buradan manuel olarak nasıl yükleyeceğinizi] görebilirsiniz.(https://github.com/FastForwardTeam/FastForward/blob/main/INSTALLING.md).
